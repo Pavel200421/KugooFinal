@@ -3,8 +3,8 @@
 
 }
 
-
 @media (min-width: 991px) and (max-width: 1200px) {
+
  .header__container {
      display: none;
  }
